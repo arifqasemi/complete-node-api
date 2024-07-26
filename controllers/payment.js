@@ -47,7 +47,7 @@ snap.createTransaction(parameter)
 
 
     get(req,res){
-        res.send('get from class')
+        res.send('get from class.this is connected to the github')
 
     }
 }
